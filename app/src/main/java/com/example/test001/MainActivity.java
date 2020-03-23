@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
     public void clear(View view) {
         count2 = 0;
         count3 = 0;
-        tPer.setText("0%");
+        tPer.setText("0/0");
     }
 
     public void numbersAreE(View view) {
